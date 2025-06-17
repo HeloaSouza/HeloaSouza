@@ -1,7 +1,7 @@
 # Olá! Sou Heloá dos Santos Souza 👋
 
 
-Sou uma estudante de **Sistemas de Informação** apaixonada por tecnologia e inovação, com foco em desenvolver soluções que façam a diferença. Atualmente, estou no primeiro período na Faculdade Sete de Setembro - Uni7.
+Sou bacharelanda em **Sistemas de Informação** apaixonada por tecnologia e inovação, com foco em desenvolver soluções que façam a diferença. Atualmente, estou no primeiro período na Faculdade Sete de Setembro - Uni7.
 
 Minha jornada acadêmica e projetos pessoais me permitiram explorar diversas áreas, e estou sempre buscando aprender e aplicar novas tecnologias.
 
