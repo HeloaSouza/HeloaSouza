@@ -1,8 +1,8 @@
 # Olá! Sou Heloá dos Santos Souza 👋
 
-Sou bacharelanda em **Sistemas de Informação** apaixonada por tecnologia e inovação, com foco em desenvolver soluções que façam a diferença. Atualmente, estou no primeiro período na **Faculdade Sete de Setembro - Uni7**.
+Sou bacharelanda em **Sistemas de Informação** apaixonada por tecnologia e inovação, com foco em desenvolver soluções que façam a diferença. Atualmente, estou no quarto período na **Faculdade Sete de Setembro - Uni7**.
 
-Minha jornada acadêmica e projetos pessoais me permitem explorar diversas áreas, e estou sempre buscando aprender e aplicar novas tecnologias. No momento, tenho grande interesse em **programação Python**, **automação** e **fundamentos de desenvolvimento web**.
+Minha jornada acadêmica e projetos pessoais me permitem explorar diversas áreas, e estou sempre buscando aprender e aplicar novas tecnologias. No momento, tenho grande interesse em **programação Python**, **design UX/UI** e **fundamentos de desenvolvimento web**.
 
 ---
 
